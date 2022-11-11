@@ -1,3 +1,3 @@
 # thehomeworkserver
 
-test uplaod for website
+test upload for website
