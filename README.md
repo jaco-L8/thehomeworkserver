@@ -1,3 +1,3 @@
 # thehomeworkserver
 
-test upload for website
+Web page for a discord server.
